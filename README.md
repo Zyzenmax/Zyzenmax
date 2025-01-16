@@ -1,4 +1,4 @@
-- Hi, I’m @Zyzenmax 👋
+ Hi, I’m @Zyzenmax 👋
 
 <!---
 Zyzenmax/Zyzenmax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
